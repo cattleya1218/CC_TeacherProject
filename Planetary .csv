@@ -1,4 +1,4 @@
-Planet: 0,Mass,Diameter,Density,Gravity,Escape_Velocity,Rotation_Period,Length_of_Day,Distance_from_Sun,Perihelion,Aphelion,Orbital Period,Orbital_Velocity,Orbital_Inclination,Orbital_Eccentricity,Obliquity_to_Orbit,Mean_Temperature,Surface_Pressure,Number_of_Moons,Ring_System,Global_Magnetic_Field?
+Planet: 0,Mass,Diameter,Density,Gravity,Escape_Velocity,Rotation_Period,Length_of_Day,Distance_from_Sun,Perihelion,Aphelion,Orbital_Period,Orbital_Velocity,Orbital_Inclination,Orbital_Eccentricity,Obliquity_to_Orbit,Mean_Temperature,Surface_Pressure,Number_of_Moons,Ring_System,Global_Magnetic_Field?
 MERCURY,0.33,4879,5429,3.7,4.3,1407.6,4222.6,57.9,46,69.8,88,47.4,7,0.206,0.034,167,0,0,No,Yes
 VENUS,4.87,"12,104",5243,8.9,10.4,-5832.5,2802,108.2,107.5,108.9,224.7,35,3.4,0.007,177.4,464,92,0,No,No
 EARTH,5.97,"12,756",5514,9.8,11.2,23.9,24,149.6,147.1,152.1,365.2,29.8,0,0.017,23.4,15,1,1,No,Yes
