@@ -1,4 +1,4 @@
-height (cm),shoe_length (cm),stride_length(cm)
+height,shoe_length,stride_length
 147,23,58
 159,26,70
 187,28,88
